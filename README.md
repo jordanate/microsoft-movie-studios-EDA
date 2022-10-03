@@ -52,7 +52,7 @@ Questions to consider:
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
-![graph1](./images/viz1.png)
+
 
 ## Conclusions
 
