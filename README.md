@@ -17,7 +17,7 @@ Questions to consider:
 * Why are these questions important from a business perspective?
 ***
 
-## Data
+## Data Understanding
 
 Describe the data being used for this project.
 
@@ -29,7 +29,7 @@ Questions to consider:
 * What are the properties of the variables you intend to use?
 ***
 
-## Methods
+## Data Analysis
 
 Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
