@@ -59,13 +59,15 @@ Here is an example of how to embed images from your sub-folder:
 Provide your conclusions about the work you've done, including any limitations or next steps.
 
 ***
+
+### Next Steps
+
 Questions to consider:
 * What would you recommend the business do as a result of this work?
 * What are some reasons why your analysis might not fully solve the business problem?
 * What else could you do in the future to improve this project?
 ***
 
-### Next Steps
 
 ## For More Information
 
