@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Jordana Tepper
+**Author**: Jordana Tepper
 
 ## Overview
 
