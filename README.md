@@ -65,6 +65,8 @@ Questions to consider:
 * What else could you do in the future to improve this project?
 ***
 
+####Next Steps
+
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
