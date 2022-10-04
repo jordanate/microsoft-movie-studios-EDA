@@ -159,3 +159,6 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+#large files
+find . -size +100M | cat >> .gitignore
