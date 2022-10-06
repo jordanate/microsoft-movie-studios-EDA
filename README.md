@@ -71,7 +71,7 @@ Questions to consider:
 
 ## For More Information
 
-For a full analysis please look at my [Jupyter Notebook](./Phase 1 Project Notebook.ipynb) or review my [presentation](./).
+For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](./).
 
 For any additional questions, please contact Jordana Tepper at [jtepper724@gmail.com]
 
@@ -80,9 +80,9 @@ For any additional questions, please contact Jordana Tepper at [jtepper724@gmail
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── phase-1-project-notebook.ipynb   
+├── .pdf         
+├── zippedData                                
+└── images                              
 ```
