@@ -1,6 +1,6 @@
-![filmreel](https://github.com/jordanate/phase-1-project/blob/main/images/filmreel.jpeg)
-
 # Title
+
+![filmreel](https://github.com/jordanate/phase-1-project/blob/main/images/filmreel.jpeg)
 
 **Author**: Jordana Tepper
 
