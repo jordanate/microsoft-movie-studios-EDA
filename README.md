@@ -8,26 +8,11 @@ A one-paragraph overview of the project, including the business problem, data, m
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
+Microsoft has decided to open a new branch of their company: Microsoft Movie Studios. However, they need help in assessing the different attributes of movies that bring in the most success. Therefore, I have been tasked with aiding the new head of Microsoft Movie Studios in making decisions regarding what type of films to create through the use of data analysis. 
 
 ## Data
 
-Describe the data being used for this project.
-
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
+The data that I used for this analysis comes from two datasets: IMDb and Box Office Mojo. These sources include information about ratings and lengths of various films, genres, directors, actors and actresses, and total gross earnings (foreign and domestic); such data primarily comes from the years 2010 - 2018.
 
 ## Methods
 
