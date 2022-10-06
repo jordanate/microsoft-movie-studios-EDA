@@ -71,9 +71,9 @@ Questions to consider:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [my Jupyter Notebook](./Phase 1 Project Notebook.ipynb) or my [presentation](./).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **name & email**
 
 ## Repository Structure
 
