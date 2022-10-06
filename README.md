@@ -57,7 +57,7 @@ While these suggestions come from thorough data analysis, there are limitations 
 1. **Generalized genres**: Although it may not seem as surprise that Adventure and Action were observed to be the most successful genres, it is important to note that the genre of each movie in the dataset was generalized. In other words, most movies had multiple genres lists, but for the sake of analysis, one genre had to become the primary genre. To do so, I took the first genre listed and made it the primary genre for a given movie. Moreover, when a movie had multiple genres, they were listed in alphabetical order making Adventure and Action often come first and therefore serve as the primary genre. While this may seem like a significant issue, I believe that Adventure and Action do tend to be overarching genres meaning that even if a movie is listed as Action and Drama or Adventure and Comedy, the movie can safely be categorized as Action and Adventure, respectively.
 
 2. **Recency of data**:
-
+Covid
 ### Further Questions
 
 1. **What is the best form of advertising a movie?**
