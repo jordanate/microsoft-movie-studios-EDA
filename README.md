@@ -73,7 +73,7 @@ Questions to consider:
 
 For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](./).
 
-For any additional questions, please contact Jordana Tepper at [jtepper724@gmail.com]
+For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
 
 ## Repository Structure
 
