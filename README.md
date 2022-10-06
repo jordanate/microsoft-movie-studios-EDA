@@ -2,6 +2,10 @@
 
 **Author**: Jordana Tepper
 
+**Pace**: Live NYC
+
+**Instructor**: Joseph Mata
+
 ## Overview
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
@@ -54,15 +58,15 @@ This analysis brings about 4 recommendations for Microsoft Movie Studios
 
 While these suggestions come from thorough data analysis, there are limitations to this project:
 
-1. **Generalized genres**: Although it may not seem as surprise that Adventure and Action were observed to be the most successful genres, it is important to note that the genre of each movie in the dataset was generalized. In other words, most movies had multiple genres lists, but for the sake of analysis, one genre had to become the primary genre. To do so, I took the first genre listed and made it the primary genre for a given movie. Moreover, when a movie had multiple genres, they were listed in alphabetical order making Adventure and Action often come first and therefore serve as the primary genre. While this may seem like a significant issue, I believe that Adventure and Action do tend to be overarching genres meaning that even if a movie is listed as Action and Drama or Adventure and Comedy, the movie can safely be categorized as Action and Adventure, respectively.
+1. **Generalized genres**: Although it may not seem like a surprise that Adventure and Action were observed to be the most successful genres, it is important to note that the genre of each movie in the dataset was generalized. In other words, many movies had multiple genres listed, but for the sake of analysis, one genre had to become the primary genre. To do so, I took the first genre listed and made it the primary genre for a given movie. Moreover, when a movie had multiple genres, they were listed in alphabetical order making Adventure and Action often come first and serve as the primary genre. While this may seem like a significant issue, I support this decision for two reasons. First, when looking at the number of movies per genre after assigning each movie a primary genre, Action and Adventure do not hold monopolies over the dataset. In fact, neither genre is in the top three genres with the most movies. Second, I believe that Adventure and Action do tend to be overarching genres meaning that even if a movie is listed as Action and Drama or Adventure and Comedy, the movie can safely be categorized as Action and Adventure, respectively.
 
-2. **Recency of data**:
-Covid
+2. **Recency of data**: As 
+
 ### Further Questions
 
-1. **What is the best form of advertising a movie?**
-2. **How do we bring in the suggested directors and actors?**
-3. **Is it better to release a movie on streaming platforms (ex: Netfix, Hulu, HBO Max) or in theaters? Which streaming platform would be best?**
+1. What is the best form of advertising a movie?
+2. How do we bring in the suggested directors and actors?
+3. Is it better to release a movie on streaming platforms (ex: Netfix, Hulu, HBO Max) or in theaters? Which streaming platform would be best?
 
 ***
 
