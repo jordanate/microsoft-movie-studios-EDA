@@ -71,9 +71,9 @@ Questions to consider:
 
 ## For More Information
 
-Please review our full analysis in [my Jupyter Notebook](./Phase 1 Project Notebook.ipynb) or my [presentation](./).
+For a full analysis please look at my [Jupyter Notebook](./Phase 1 Project Notebook.ipynb) or review my [presentation](./).
 
-For any additional questions, please contact **name & email**
+For any additional questions, please contact Jordana Tepper at [jtepper724@gmail.com]
 
 ## Repository Structure
 
