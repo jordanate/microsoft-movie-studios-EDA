@@ -43,10 +43,10 @@ Here is an example of how to embed images from your sub-folder:
 
 ### Recommendations
 
-1. Genres with the greatest revenue: Action and Adventure 
-2. Suggested runtime: 101 minutes
-3. Directors to target:  Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan
-4. Actors to target: Sandra Bullock, Javier Bardem, and Chris Evans 
+1. **Genres with the greatest revenue**: Action and Adventure 
+2. **Suggested runtime**: 101 minutes
+3. **Directors to target**:  Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan
+4. **Actors to target**: Sandra Bullock, Javier Bardem, and Chris Evans 
 
 ### Limitations
 
