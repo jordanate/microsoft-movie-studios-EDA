@@ -41,12 +41,14 @@ Here is an example of how to embed images from your sub-folder:
 
 ## Conclusions
 
-### Recommendations
+This analysis brings about 4 recommendations for Microsoft Movie Studios
 
-1. **Genres with the greatest revenue**: Action and Adventure 
-2. **Suggested runtime**: 101 minutes
-3. **Directors to target**:  Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan
-4. **Actors to target**: Sandra Bullock, Javier Bardem, and Chris Evans 
+1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest rated genre, ratings do not neccessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies.
+
+2. **Suggested runtime is 101 minutes.** There is no distinct difference in runtime between movies that are rated as 'Good', 'Average' or 'Bad', but if Microsoft Movie Studios is looking for a target runtime, 101 minutes is a good marker as it is the average runtime of 'Good' movies from the two most successful genres: Action and Adventure.
+
+3. **Directors to target are Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan**: While there are many successful directors in the film industry, the listed directors have shown to surpass the standard when it comes to the revenue that their movies produce. Not only have these indivudals directed some of the most successful movies in the datasets, but they have also exhibited continuous success throughout the careers.   
+4. **Actors to target are Sandra Bullock, Javier Bardem, and Chris Evans**: Similar to the directors presented above, these actors have appeared in the most successful movies from this dataset. Even more so, they have been consistently cast in successful movies throughout the years 2010-2018. Therefore, including such actors in Microsoft films will likely bring in high revenue as well as positive reviews from the audience. 
 
 ### Limitations
 
@@ -59,9 +61,7 @@ For a full analysis please look at my [Jupyter Notebook](./phase-1-project-noteb
 
 For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
 
-## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
+## Repository Structure:
 
 ```
 ├── README.md                           
