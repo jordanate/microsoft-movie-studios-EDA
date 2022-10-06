@@ -45,12 +45,20 @@ This analysis brings about 4 recommendations for Microsoft Movie Studios
 
 1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest rated genre, ratings do not neccessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies.
 
-2. **Suggested runtime is 101 minutes.** There is no distinct difference in runtime between movies that are rated as 'Good', 'Average' or 'Bad', but if Microsoft Movie Studios is looking for a target runtime, 101 minutes is a good marker as it is the average runtime of 'Good' movies from the two most successful genres: Action and Adventure.
+2. **Suggested runtime is 101 minutes.** There is no distinct difference in runtime between movies that are rated as 'Good', 'Average', or 'Bad', but if Microsoft Movie Studios is looking for a target runtime, 101 minutes is a good marker as it is the average runtime of 'Good' movies from the two most successful genres: Action and Adventure.
 
 3. **Directors to target are Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan**: While there are many successful directors in the film industry, the listed directors have shown to surpass the standard when it comes to the revenue that their movies produce. Not only have these indivudals directed some of the most successful movies in the datasets, but they have also exhibited continuous success throughout the careers.   
 4. **Actors to target are Sandra Bullock, Javier Bardem, and Chris Evans**: Similar to the directors presented above, these actors have appeared in the most successful movies from this dataset. Even more so, they have been consistently cast in successful movies throughout the years 2010-2018. Therefore, including such actors in Microsoft films will likely bring in high revenue as well as positive reviews from the audience. 
 
 ### Limitations
+
+While these suggestions come from thorough data analysis, there are limitations to this project:
+
+1. **Generalized genres**: Although it may not seem as surprise that Adventure and Action were observed to be the most successful genres, it is important to note that the genre of each movie in the dataset was generalized. In other words, most movies had multiple genres lists, but for the sake of analysis, one genre had to become the primary genre. To do so, I took the first genre listed and made it the primary genre for a given movie. Moreover, when a movie had multiple genres, they were listed in alphabetical order making Adventure and Action often come first and therefore serve as the primary genre. While this may seem like a significant issue, I believe that Adventure and Action do tend to be overarching genres meaning that even if a movie is listed as Action and Drama or Adventure and Comedy, the movie can safely be categorized as Action and Adventure, respectively.
+
+2. **Recency of data**:
+
+
 
 ***
 
