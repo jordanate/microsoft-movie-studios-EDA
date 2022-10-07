@@ -32,9 +32,9 @@ For my first analysis, I look at the average movie rating per genre using a bar 
 
 After looking at my first analysis, I realize that from a business point of view, success is not determined by ratings, but rather, it is indicated by revenue.
 
-Therefore, for the subsequent analysis, I look at the average total revenue per genre using a line graph.
+Therefore, for the subsequent analysis, I look at the average total revenue per genre using a bar graph.
 
-![revenue_x_genre_line.png](https://github.com/jordanate/phase-1-project/blob/main/images/revenue_x_genre_line.png)
+![revenue_x_genre.png](https://github.com/jordanate/phase-1-project/blob/main/images/revenue_x_genre.png)
 
 ### Distributions of Runtimes For Action and Adventure Movies Based on Rating Category
 
