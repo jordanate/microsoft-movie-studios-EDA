@@ -18,7 +18,7 @@ The data that I use for my analysis comes from two datasets: IMDb and Box Office
 
 ## Methods
 
-This project includes thorough data cleaning such as removing entries with missing values and combining various columns from two different datasets to create new, more explciit, DataFrames. Furthermore, I utilize different types of graphs to adequately present the findings from this data analysis.
+This project includes thorough data cleaning, such as removing entries with missing values and combining various columns from two different datasets to create new, more explcit, DataFrames. Furthermore, I utilize different types of graphs to adequately present the findings from this data analysis.
 
 ## Analysis
 
