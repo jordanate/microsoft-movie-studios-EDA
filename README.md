@@ -108,7 +108,7 @@ For any additional questions, please contact Jordana Tepper at jtepper724@gmail.
 ```
 ├── README.md                           
 ├── phase-1-project-notebook.ipynb   
-├── .pdf         
+├── Phase 1 Project Presentation.pdf         
 ├── zippedData                                
 └── images                              
 ```
