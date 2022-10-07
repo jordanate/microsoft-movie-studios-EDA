@@ -18,25 +18,11 @@ The data that I used for this analysis comes from two datasets: IMDb and Box Off
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 
@@ -45,15 +31,17 @@ Here is an example of how to embed images from your sub-folder:
 
 This analysis brings about 4 recommendations for Microsoft Movie Studios
 
-1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest rated genre, ratings do not neccessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies.
+1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest rated genre, ratings do not neccessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies. Therefore, Microsoft Movie Studies should aim to produce films of these genres.
 
 
-2. **Suggested runtime for Action movies is between 85 and 125 minutes.** There is no distinct difference in the mean runtime between movies that are rated as 'Good', 'Average', or 'Bad', but if Microsoft Movie Studios is looking for a target runtime range, within 85 and 125 minutes for Action movies is ideal; to be even more specific, a runtime of 100 minutes would be a good target length. It is more difficult to give a suggestion for Adventure movies as the distributions for 'Good', 'Average', and 'Bad' movie lengths are all quite similar.
+2. **Suggested runtime for Action movies is between 85 and 125 minutes.** There is no distinct difference in the mean runtime between movies that are rated as 'Good', 'Average', or 'Bad', but if Microsoft Movie Studios is looking for a target runtime range, within 85 and 125 minutes for Action movies is ideal; to be even more specific, a runtime of 100 minutes would be a solid target length (such information comes from the typical length of a 'Good' Action movie). It is more difficult to give a suggestion for Adventure movies as the distributions for 'Good', 'Average', and 'Bad' movie lengths are all quite similar. Nevertheless, in regard to Action movies, aiming within the specified range maximizes the liklihood of audience approval.
 
 
-3. **Directors to target are Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan**: While there are many successful directors in the film industry, the listed directors have shown to surpass the standard when it comes to the revenue that their movies produce. Not only have these indivudals directed some of the most successful movies in the datasets, but they have also exhibited continuous success throughout the careers. The ideal directors for Action movies are Sam Mendes, Michael Bay, and Anthony Russo, and the ideal directors for Adventure movies are Lee Unkrich and Pierre Coffin. The director that has experience is both genres is Christopher Nolan.
+3. **Directors to target are Sam Mendes, Michael Bay, Lee Unkrich, Pierre Coffin, Anthony Russo, and Christopher Nolan**: While there are many successful directors in the film industry, the listed directors have shown to surpass the standard when it comes to the revenue that their movies produce. Not only have these indivudals directed some of the most successful movies in the datasets, but they have also exhibited continuous success throughout the careers making them reliable in regard to bringing in revenue. The ideal directors for Action movies are Sam Mendes, Michael Bay, and Anthony Russo, and the ideal directors for Adventure movies are Lee Unkrich and Pierre Coffin. The director that has experience is both genres is Christopher Nolan.
+   
 
 4. **Actors to target are Sandra Bullock, Javier Bardem, and Chris Evans**: Similar to the directors presented above, these actors have appeared in the most successful movies from this dataset. Even more so, they have been consistently cast in successful movies throughout the years 2010-2018. Therefore, including such actors in Microsoft films will likely bring in high revenue as well as positive reviews from the audience. In terms of speicifc genres, Chris Evans and Javier Bardem are both known for Action movies while Sandra Bullock has experience in both Action and Adventure movies. 
+
 
 ### Limitations
 
@@ -74,7 +62,7 @@ While these suggestions come from thorough data analysis, there are limitations 
 
 ## For More Information
 
-For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](./).
+For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](./Phase 1 Project Presentation.pdf).
 
 For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
 
