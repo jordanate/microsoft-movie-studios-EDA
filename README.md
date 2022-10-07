@@ -66,7 +66,7 @@ Next, I compare the two graphs and look at which actors appear in both graphs. A
 
 ## Conclusions
 
-This data analysis brings about 4 recommendations for Microsoft Movie Studios.
+This data analysis brings about 4 recommendations for Microsoft Movie Studios:
 
 1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest-rated genre, ratings do not necessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies. Therefore, Microsoft Movie Studies should aim to produce films of these genres.
 
