@@ -103,7 +103,7 @@ For a full analysis, please look at my [Jupyter Notebook](./phase-1-project-note
 <br /> For a more concise summary, please review my [presentation](https://github.com/jordanate/phase-1-project/blob/main/Phase%201%20Project%20Presentation.pdf).
 
 <br />
-For any additional questions, please contact Jordana Tepper at [jtepper724@gmail.com](mailto:jtepper724@gmail.com) 
+For any additional questions, please contact Jordana Tepper at <a href="mailto:jtepper724@gmail.com">jtepper724@gmail.com</a> 
 
 ## Repository Structure:
 
