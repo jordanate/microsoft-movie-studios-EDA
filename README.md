@@ -6,11 +6,11 @@
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This project analyzes existing movie data in order to help Microsoft with the launch of its new production studio. Such data consists of movie ratings, cast and crew, gross earnings, and movie runtime. After utilizing the process of exploratory data analysis, I provide four recommendations for Microsoft Movie Studios, including the most successful genres, the ideal length of a movie, and target directors and actors.
 
 ## Business Problem
 
-Microsoft has decided to open a new branch of their company: Microsoft Movie Studios. However, they need help in assessing the different attributes of movies that bring in the most success. Therefore, I have been tasked with aiding the new head of Microsoft Movie Studios in making decisions regarding what type of films to create through the use of data analysis. 
+Microsoft has decided to open a new branch of their company: Microsoft Movie Studios. However, they need help in assessing the different attributes of movies that bring in the most success. Therefore, I have been tasked with aiding the new head of Microsoft Movie Studios in making decisions regarding what type of films to create through the use of exploratory data analysis. 
 
 ## Data
 
@@ -99,7 +99,8 @@ While these suggestions come from thorough data analysis, there are limitations 
 
 ## For More Information
 
-For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](https://github.com/jordanate/phase-1-project/blob/main/Phase%201%20Project%20Presentation.pdf).
+For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb)
+For a more concise summary please review my [presentation](https://github.com/jordanate/phase-1-project/blob/main/Phase%201%20Project%20Presentation.pdf).
 
 For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
 
