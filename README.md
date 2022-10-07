@@ -52,7 +52,7 @@ The rating categories are determined based on the following criteria:
 
 During this analysis, I examine and graph the top 15 directors whose movies produced the greatest mean revenue in 2010-2018, as well as the directors of the top 15 movies with the greatest single revenue in 2010-2018 using bar charts.
 
-After, I compare the two graphs and look at the directors who appear in both graphs. While doing so, I am attentive to the fact that some directors appear in both graphs because they directed one particularly successful movie resulting in the mean revenue of the movies they directed seeming very high. Therefore, I consider the most successful directors to be only the individuals who are present in both graphs *and* who have directed more than one movie in 2010-2018.
+After, I compare the two graphs and look at the directors who appear in both graphs. While doing so, I am attentive to the fact that some directors appear in both graphs because they directed one particularly successful movie resulting in the mean revenue of the movies they directed seeming very high. Therefore, I consider the most successful directors to be only the individuals who are present in both graphs *and* who have directed more than one movie in 2010-2018 (according to this dataset).
 
 ![directors_spaced.png](https://github.com/jordanate/phase-1-project/blob/main/images/directors_spaced.png)
 
@@ -60,7 +60,7 @@ After, I compare the two graphs and look at the directors who appear in both gra
 
 In my final analysis, I do a process very similar to what I did with the directors. I examine and graph the top 15 actors whose movies produced the greatest mean revenue in 2010-2018, as well as the actors from the top 15 movies with the greatest single revenue in 2010-2018 using bar charts.
 
-Next, I compare the two graphs and look at which actors appear in both graphs. As I did in the previous analysis, I pay close attention to the fact that some actors appear in both graphs because they were in one particularly successful movie making the mean revenue of the movies they were in seem very high. Therefore, I consider the most successful actors to be only the individuals who are present in both graphs *and* who were cast in more than one movie in 2010-2018.
+Next, I compare the two graphs and look at which actors appear in both graphs. As I did in the previous analysis, I pay close attention to the fact that some actors appear in both graphs because they were in one particularly successful movie making the mean revenue of the movies they were in seem very high. Therefore, I consider the most successful actors to be only the individuals who are present in both graphs *and* who were cast in more than one movie in 2010-2018 (according to this dataset).
 
 ![actors_spaced.png](https://github.com/jordanate/phase-1-project/blob/main/images/actors_spaced.png)
 
