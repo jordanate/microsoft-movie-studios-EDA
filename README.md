@@ -99,8 +99,8 @@ While these suggestions come from thorough data analysis, there are limitations 
 
 ## For More Information
 
-For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb)
-<br /> For a more concise summary please review my [presentation](https://github.com/jordanate/phase-1-project/blob/main/Phase%201%20Project%20Presentation.pdf).
+For a full analysis, please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb)
+<br /> For a more concise summary, please review my [presentation](https://github.com/jordanate/phase-1-project/blob/main/Phase%201%20Project%20Presentation.pdf).
 
 <br />
 For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
