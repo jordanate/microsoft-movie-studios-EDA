@@ -14,22 +14,59 @@ Microsoft has decided to open a new branch of their company: Microsoft Movie Stu
 
 ## Data
 
-The data that I used for this analysis comes from two datasets: IMDb and Box Office Mojo. These sources include information about ratings and lengths of various films, genres, directors, actors and actresses, and total gross earnings (foreign and domestic); such data primarily comes from the years 2010 - 2018.
+The data that I use for my analysis comes from two datasets: IMDb and Box Office Mojo. These sources include information about ratings and lengths of various films, genres, directors, actors and actresses, and total gross earnings (foreign and domestic); such data primarily comes from the years 2010 - 2018.
 
 ## Methods
 
+This project includes thorough data cleaning such as removing entries with missing values and combining various columns from two different datasets to create new, more explciit, DataFrames. Furthermore, I utilize different types of graphs to adequately present the findings from this data analysis.
 
+## Analysis
 
-## Results
+### Average Rating Per Genre
 
+For my first analysis, I look at the average movie rating per genre using a bar plot. I also include a color scale to show the number of ratings that each genre received in order to add another level of understanding to the graph.
 
+![rating_x_genre.png](https://github.com/jordanate/phase-1-project/blob/main/images/rating_x_genre.png)
 
-### Visual 1
+### Total Revenue Per Genre
 
+After looking at my first analysis, I realize that from a business point of view, success is not determined by ratings, but rather, it is indicated by revenue.
+
+Therefore, for the subsequent analysis, I look at the average total revenue per genre using a line graph.
+
+![revenue_x_genre_line.png](https://github.com/jordanate/phase-1-project/blob/main/images/revenue_x_genre_line.png)
+
+### Distributions of Runtimes For Action and Adventure Movies Based on Rating Category
+
+In the next analysis, I look at the distribution of runtimes for Action and Adventure movies using boxplots. I do so for each indiviudal rating category ('Good', 'Average', and 'Bad') resulting in three seperate boxplots - each with two diagrams (one for Action, one for Adventure).
+
+The rating categories are determined based on the following criteria:
+
+* 'Good' means a movie rating greater than or equal to 7
+* 'Average' means a movie rating less than 7 and greater than or equal to 5
+* 'Bad' means a movie rating less than 5
+
+![distribution_runtimes.png](https://github.com/jordanate/phase-1-project/blob/main/images/distribution_runtimes.png)
+
+### Directors of the Most Successful Movies
+
+During this analysis, I examine and graph the top 15 directors whose movies produced the greatest mean revenue in 2010-2018 as well as the directors of the top 15 movies with the greatest single revenue in 2010-2018.
+
+After, I compare the two graphs and look at the directors who appear in both graphs. While doing so, I am attentive to the fact that some directors appear in both graphs because they directed one particularly successful movie resulting in the mean revenue of the movies they directed seeming very high. Therefore, I consider the most successful directors to be only the individuals who have directed more than one movie in 2010-2018.
+
+![directors_spaced.png](https://github.com/jordanate/phase-1-project/blob/main/images/directors_spaced.png)
+
+### Actors and Actresses from the Most Successful Movies
+
+In my final analysis, I do a proccess very similar to what I did with the directors. I examine and graph the top 15 actors whose movies produced the greatest mean revenue in 2010-2018 as well as the actors from the top 15 movies with the greatest single revenue in 2010-2018.
+
+Next, I compare the two graphs and look at which actors appear in both graphs. As I did in the previous analysis, I pay close attention to the fact that some actors appear in both graphs because they were in one particularly successful movie making the mean revenue of the movies they were in seem very high. Therefore, I consider the most successful actors to be only the individuals who were cast in more than one movie in 2010-2018.
+
+![actors_spaced.png](https://github.com/jordanate/phase-1-project/blob/main/images/actors_spaced.png)
 
 ## Conclusions
 
-This analysis brings about 4 recommendations for Microsoft Movie Studios
+This data analysis brings about 4 recommendations for Microsoft Movie Studios
 
 1. **The top two genres with the greatest revenue are Action and Adventure.** Although Documentaries tend to be the highest rated genre, ratings do not neccessarily equal success for a business. Rather, revenue is a more appropriate indicator. The genres that clearly had the highest average total revenue (domestic gross + foreign gross) were Adventure movies and Action movies. Therefore, Microsoft Movie Studies should aim to produce films of these genres.
 
