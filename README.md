@@ -90,7 +90,7 @@ While these suggestions come from thorough data analysis, there are limitations 
 
 ### Further Questions
 
-1. What is the best form of advertising a movie?
+1. What is the best way of advertising a movie?
 2. How do we bring in the suggested directors and actors?
 3. Is it better to release a movie on streaming platforms (ex: Netflix, Hulu, HBO Max) or in theaters? Which streaming platform would be best?
 
