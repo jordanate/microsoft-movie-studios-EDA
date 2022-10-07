@@ -62,7 +62,7 @@ While these suggestions come from thorough data analysis, there are limitations 
 
 ## For More Information
 
-For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](./Phase 1 Project Presentation.pdf).
+For a full analysis please look at my [Jupyter Notebook](./phase-1-project-notebook.ipynb) or review my [presentation](Phase 1 Project Presentation.pdf).
 
 For any additional questions, please contact Jordana Tepper at jtepper724@gmail.com
 
