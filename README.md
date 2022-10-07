@@ -52,7 +52,7 @@ The rating categories are determined based on the following criteria:
 
 During this analysis, I examine and graph the top 15 directors whose movies produced the greatest mean revenue in 2010-2018, as well as the directors of the top 15 movies with the greatest single revenue in 2010-2018 using bar charts.
 
-After, I compare the two graphs and look at the directors who appear in both graphs. While doing so, I am attentive to the fact that some directors appear in both graphs because they directed one particularly successful movie resulting in the mean revenue of the movies they directed seeming very high. Therefore, I consider the most successful directors to be only the individuals who are present in both graphs *and* who have directed more than one movie in 2010-2018 (according to this dataset).
+After, I compare the two graphs and look at the directors who appear in both graphs. While doing so, I am attentive to the fact that some directors appear in both graphs because they directed one particularly successful movie resulting in the mean revenue of the movies they directed seeming very high. Therefore, I consider the most successful directors to be only the individuals who are present in both graphs *and* who directed more than one movie in 2010-2018 (according to this dataset).
 
 ![directors_spaced.png](https://github.com/jordanate/phase-1-project/blob/main/images/directors_spaced.png)
 
