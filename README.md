@@ -24,7 +24,7 @@ This project includes thorough data cleaning, such as removing entries with miss
 
 ### Average Rating Per Genre
 
-For my first analysis, I look at the average movie rating per genre using a bar plot. I also include a color scale to show the number of ratings that each genre received in order to add another level of understanding to the graph.
+For my first analysis, I look at the average movie rating per genre using a bar chart. I also include a color scale to show the number of ratings that each genre received in order to add another level of understanding to the graph.
 
 ![rating_x_genre.png](https://github.com/jordanate/phase-1-project/blob/main/images/rating_x_genre.png)
 
