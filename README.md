@@ -1,4 +1,4 @@
-# Phase 1 Project: Movie Analysis for Microsoft Movie Studios
+# Movie Analysis for Microsoft Movie Studios
 
 ![filmreel](https://github.com/jordanate/phase-1-project/blob/main/images/filmreel.jpeg)
 
