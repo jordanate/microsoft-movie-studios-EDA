@@ -108,9 +108,10 @@ For any additional questions, please contact Jordana Tepper at <a href="mailto:j
 ## Repository Structure:
 
 ```
+├── images  
+├── zippedData
 ├── README.md                           
-├── phase-1-project-notebook.ipynb   
-├── Phase 1 Project Presentation.pdf         
-├── zippedData                                
-└── images                              
+├── microsoft-movie-studios-EDA.ipynb   
+├── presentation.pdf                                         
+└──                            
 ```
