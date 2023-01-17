@@ -110,8 +110,9 @@ For any additional questions, please contact Jordana Tepper at <a href="mailto:j
 ```
 ├── images  
 ├── zippedData
+├── .gitignore
 ├── README.md                           
 ├── microsoft-movie-studios-EDA.ipynb   
-├── presentation.pdf                                         
-└──                            
+└── presentation.pdf                                         
+                           
 ```
